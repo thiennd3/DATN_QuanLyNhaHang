@@ -15,7 +15,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="DATN_QuanLyNhaHang" />
+          <factory-entry name="DATN_QuanLyNhaHang" value="fb12d04e-cd5c-477e-8f1a-85e736ec6229" />
           <factory-entry name="entityManagerFactory" />
         </datasource-mapping>
         <naming-strategy-map />
