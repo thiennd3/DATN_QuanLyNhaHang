@@ -3,7 +3,7 @@ package datn_quanlynhahang.model.base;
 import javax.persistence.*;
 import java.time.Instant;
 
-@Entity(name = "User_Account")
+@Entity
 @Table(name = "UserAccount")
 public class UserAccount {
     @Id

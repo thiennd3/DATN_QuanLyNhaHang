@@ -3,6 +3,6 @@
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
     <option name="reverseEngineeringLastDbConnectionId" value="d0be9855-5696-4a06-bf79-e818b054ecc2" />
-    <option name="reLastEntityCreationPackage" value="src/main/java/datn_quanlynhahang/model/base" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/datn_quanlynhahang/model/dto" />
   </component>
 </project>
